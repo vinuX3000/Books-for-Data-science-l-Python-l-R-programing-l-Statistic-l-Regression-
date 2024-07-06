@@ -27,3 +27,11 @@
 13.The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011
 
 14.O'Reilly Think Python 2nd HOW TO THINK LIKE A COMPUTER SCIENTIST
+
+15.Basic Econometrics - Damodar N. Gujarati , Dawn C. Porter
+
+16.An Introduction To Statistical Learning with Application in Python -  Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani , 
+  
+  Jonathan Taylor
+
+17.Statistics For Non-Statisticians 2nd Ed. - B.S.Madsen
